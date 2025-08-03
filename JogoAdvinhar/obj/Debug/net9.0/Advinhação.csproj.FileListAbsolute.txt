@@ -1,0 +1,14 @@
+C:\Users\KAREN\Desktop\Projetos em C#\Advinhação\bin\Debug\net9.0\Advinhação.exe
+C:\Users\KAREN\Desktop\Projetos em C#\Advinhação\bin\Debug\net9.0\Advinhação.deps.json
+C:\Users\KAREN\Desktop\Projetos em C#\Advinhação\bin\Debug\net9.0\Advinhação.runtimeconfig.json
+C:\Users\KAREN\Desktop\Projetos em C#\Advinhação\bin\Debug\net9.0\Advinhação.dll
+C:\Users\KAREN\Desktop\Projetos em C#\Advinhação\bin\Debug\net9.0\Advinhação.pdb
+C:\Users\KAREN\Desktop\Projetos em C#\Advinhação\obj\Debug\net9.0\Advinhação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAREN\Desktop\Projetos em C#\Advinhação\obj\Debug\net9.0\Advinhação.AssemblyInfoInputs.cache
+C:\Users\KAREN\Desktop\Projetos em C#\Advinhação\obj\Debug\net9.0\Advinhação.AssemblyInfo.cs
+C:\Users\KAREN\Desktop\Projetos em C#\Advinhação\obj\Debug\net9.0\Advinhação.csproj.CoreCompileInputs.cache
+C:\Users\KAREN\Desktop\Projetos em C#\Advinhação\obj\Debug\net9.0\Advinhação.dll
+C:\Users\KAREN\Desktop\Projetos em C#\Advinhação\obj\Debug\net9.0\refint\Advinhação.dll
+C:\Users\KAREN\Desktop\Projetos em C#\Advinhação\obj\Debug\net9.0\Advinhação.pdb
+C:\Users\KAREN\Desktop\Projetos em C#\Advinhação\obj\Debug\net9.0\Advinhação.genruntimeconfig.cache
+C:\Users\KAREN\Desktop\Projetos em C#\Advinhação\obj\Debug\net9.0\ref\Advinhação.dll

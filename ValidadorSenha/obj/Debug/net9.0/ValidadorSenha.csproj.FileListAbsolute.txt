@@ -1,0 +1,14 @@
+C:\Users\KAREN\Desktop\Projetos em C#\ValidadorSenha\bin\Debug\net9.0\ValidadorSenha.exe
+C:\Users\KAREN\Desktop\Projetos em C#\ValidadorSenha\bin\Debug\net9.0\ValidadorSenha.deps.json
+C:\Users\KAREN\Desktop\Projetos em C#\ValidadorSenha\bin\Debug\net9.0\ValidadorSenha.runtimeconfig.json
+C:\Users\KAREN\Desktop\Projetos em C#\ValidadorSenha\bin\Debug\net9.0\ValidadorSenha.dll
+C:\Users\KAREN\Desktop\Projetos em C#\ValidadorSenha\bin\Debug\net9.0\ValidadorSenha.pdb
+C:\Users\KAREN\Desktop\Projetos em C#\ValidadorSenha\obj\Debug\net9.0\ValidadorSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAREN\Desktop\Projetos em C#\ValidadorSenha\obj\Debug\net9.0\ValidadorSenha.AssemblyInfoInputs.cache
+C:\Users\KAREN\Desktop\Projetos em C#\ValidadorSenha\obj\Debug\net9.0\ValidadorSenha.AssemblyInfo.cs
+C:\Users\KAREN\Desktop\Projetos em C#\ValidadorSenha\obj\Debug\net9.0\ValidadorSenha.csproj.CoreCompileInputs.cache
+C:\Users\KAREN\Desktop\Projetos em C#\ValidadorSenha\obj\Debug\net9.0\ValidadorSenha.dll
+C:\Users\KAREN\Desktop\Projetos em C#\ValidadorSenha\obj\Debug\net9.0\refint\ValidadorSenha.dll
+C:\Users\KAREN\Desktop\Projetos em C#\ValidadorSenha\obj\Debug\net9.0\ValidadorSenha.pdb
+C:\Users\KAREN\Desktop\Projetos em C#\ValidadorSenha\obj\Debug\net9.0\ValidadorSenha.genruntimeconfig.cache
+C:\Users\KAREN\Desktop\Projetos em C#\ValidadorSenha\obj\Debug\net9.0\ref\ValidadorSenha.dll
