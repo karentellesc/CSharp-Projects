@@ -1,0 +1,3 @@
+# Simulador de Caixa Eletrônico
+
+Nesse projeto o usuário irá digitar o valor do saque que deseja realizar após aparecer quais notas estão disponíveis. Ao digitar, irá aparecer a mensagem pedindo para o usuário confirmar o valor. Caso o usuário confirme, irá ser realizada a contagem das notas disponíveis para saber se o saque pode ser feito. Se o valor não puder ser realizado devido a falta de notas, o sistema irá comunicar e pedir que o usuário digite outro valor. Novamente a mensagem de confirmação irá aparecer. Se o usuário confirmar, o saque irá prosseguir e irá aparecer a mensagem "Saque realizado com sucesso", se não, o sistema irá continuar pedindo que o usuário digite outro valor. 
